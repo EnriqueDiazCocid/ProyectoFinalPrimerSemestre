@@ -1,0 +1,5 @@
+# Poner las paqueterias necesarias para el proyecto
+numpy>=1.24
+pandas>=2.0
+matplotlib>=3.7
+notebook>=7.0
